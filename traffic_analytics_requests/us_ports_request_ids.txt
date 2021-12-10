@@ -1,0 +1,1 @@
+[["jan", "ANTWERP", 431352]][["feb", "ANTWERP", 431353]][["mar", "ANTWERP", 431354]][["apr", "ANTWERP", 431355]][["may", "ANTWERP", 431356]][["jun", "ANTWERP", 431357]][["jul", "ANTWERP", 431358]][["aug", "ANTWERP", 431359]][["sep", "ANTWERP", 431360]][["oct", "ANTWERP", 431361]][["nov", "ANTWERP", 431362]][["jan", "NETHERLANDS", 431363]][["feb", "NETHERLANDS", 431364]]

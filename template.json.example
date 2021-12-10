@@ -1,0 +1,31 @@
+{
+    "queryFilter":{
+        "location": {
+            
+        },
+        "isoCountryCode": "USA",
+        "locationFilter": {"funcClass": {"1": true, "2": true, "3": true, "4": true, "5": true}},
+        "startDate": "",
+        "endDate": "",
+        "requestType": "PROBE",
+        "vehicleType": "TRUCK",
+        "daysOfWeek": {"U":true, "M":true, "T":true, "W":true, "R":true, "F":true, "S":true}
+    },
+    "outputFormat": {
+        "tmcBased": false,
+        "epochType": 60,
+        "minMax": true,
+        "mean": true,
+        "stdDev": true,
+        "confidence": true,
+        "freeFlow": true,
+        "length_": true,
+        "speedLimit": true,
+        "sampleCount": true,
+        "gapFilling": false,
+        "percentiles": [85]
+    },
+    "estimatedSize": 0,
+    "userEmail": "sophia.parafina@gmail.com",
+    "userId":1649
+}
