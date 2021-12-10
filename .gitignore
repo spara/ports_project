@@ -12,3 +12,4 @@ venv
 **.gz
 **.zip
 **.tar
+##.DS_Store
